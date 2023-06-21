@@ -1,0 +1,3 @@
+# Genshin_Impact_character_recognition_5
+原神角色识别
+主要基于卷积神经网络对五个原神角色进行识别
